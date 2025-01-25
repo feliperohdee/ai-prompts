@@ -1,5 +1,3 @@
-Here's a detailed prompt for creating code-to-diagram visualizations:
-
 # Code Flow Diagram Creation Prompt
 
 ## Context
